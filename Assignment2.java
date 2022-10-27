@@ -1,5 +1,6 @@
 /**
  * written by Kanghua Liu
+ * 
  */
 import sheffield.*;
 public class Assignment2 {
