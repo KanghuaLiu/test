@@ -1,3 +1,6 @@
+/**
+ * written by Kanghua Liu
+ */
 import sheffield.*;
 public class Assignment2 {
 	public static void main(String [] args) {
